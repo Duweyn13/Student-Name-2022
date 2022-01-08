@@ -6,4 +6,5 @@ Sanvictores, Mico
 Rios, D'Artagnan
 Fontanilla, Jason
 Biboso, Emannuel
-Hao, Gyeliane
+Reyes, Jonas
+Reyes, Sem
